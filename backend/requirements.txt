@@ -1,0 +1,4 @@
+mlx-whisper>=0.4.2,<0.5
+huggingface-hub>=0.25,<1
+pyinstaller>=6,<7
+imageio-ffmpeg==0.6.0
